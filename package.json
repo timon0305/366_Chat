@@ -33,7 +33,7 @@
         "@fullcalendar/timegrid": "4.4.2",
         "@ngneat/transloco": "2.20.1",
         "apexcharts": "3.26.3",
-        "crypto-js": "3.3.0",
+        "crypto-js": "4.2.0",
         "highlight.js": "10.7.2",
         "lodash-es": "4.17.21",
         "moment": "2.29.1",
